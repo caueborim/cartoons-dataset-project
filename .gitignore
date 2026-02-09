@@ -1,6 +1,35 @@
-.env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# ambientes
 .venv/
 venv/
-.env.*
+env/
+
+# dados 
+*.csv
+*.xlsx
+*.parquet
+
+# imagens geradas
+*.png
+*.jpg
+*.jpeg
+
+# VSCode / sistema
+.vscode/
+.devcontainer/
+.DS_Store
+
+# logs
+*.log
+
+# permitir imagens do README
+!assets/
+!assets/*.png
+!assets/*.jpg
+!assets/*.jpeg

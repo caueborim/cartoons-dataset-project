@@ -1,5 +1,8 @@
 # 📺 Childhood Cartoons Dataset (Data Engineering + Analysis Project)
 
+## Live Dashboard
+🔗 https://cartoon-data-dashboard.streamlit.app/
+
 A personal data project that transforms a nostalgic list of childhood cartoons into a structured and enriched dataset using public APIs.
 
 ## Problem
